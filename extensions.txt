@@ -1,0 +1,28 @@
+Andromeda
+Apollo GraphQL
+Atom one dark theme
+Ayu
+Bracket pair colorizer
+Community material theme
+Dracula official
+es7/react-redux
+Html css support
+Live sass compiler
+Live server
+Markdown perview enhanced
+Material icon theme
+Material theme
+Material theme icons
+Monokai pro
+Night owl
+One dark pro
+Prettier for handlebars
+Remote wsl
+Shades of purple
+Vetur
+Vscode ruby
+vscode-styled-components
+eslint
+headwind
+Prettier
+Tailwind css intellisense
