@@ -1,0 +1,63 @@
+{
+  "liveSassCompile.settings.formats": [
+    {
+      "extensionName": ".min.css",
+      "format": "compressed",
+      "savePath": "/css"
+    },
+    {
+      "extensionName": ".css",
+      "format": "expanded",
+      "savePath": "/css"
+    }
+  ],
+  "liveSassCompile.settings.excludeList": ["**/node_modules/**", ".vscode/**"],
+  "liveSassCompile.settings.generateMap": false,
+  "liveSassCompile.settings.autoprefix": ["> 1%", "last 2 versions"],
+  "emmet.includeLanguages": {
+    "erb": "html",
+    "javascript": "javascriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "workbench.statusBar.visible": true,
+  "explorer.confirmDelete": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.port": 4500,
+  "window.zoomLevel": 0,
+  "workbench.startupEditor": "newUntitledFile",
+  "prettier.printWidth": 80,
+  "extensions.autoUpdate": false,
+  "extensions.autoCheckUpdates": false,
+  "prettier.tabWidth": 2,
+  "editor.tabSize": 2,
+  "html.format.indentHandlebars": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "update.enableWindowsBackgroundUpdates": false,
+  "update.mode": "manual",
+  "workbench.colorTheme": "Material Theme Palenight High Contrast",
+  "editor.fontFamily": "Operator Mono",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 15,
+  "editor.lineHeight": 25,
+  "editor.letterSpacing": 0.5,
+  "files.trimTrailingWhitespace": true,
+  "editor.fontWeight": "400",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 5,
+  "editor.cursorBlinking": "solid",
+  "bracketPairColorizer.forceIterationColorCycle": true,
+  "javascript.implicitProjectConfig.experimentalDecorators": true,
+  "extensions.ignoreRecommendations": false,
+  "typescript.disableAutomaticTypeAcquisition": true
+}
